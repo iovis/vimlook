@@ -1,0 +1,35 @@
+*vimlook.txt*  Use macOS's QuickLook from Vim
+
+Author:  David Marchante <https://github.com/iovis9>
+License: Same terms as Vim itself (see |license|)
+Version: 1.0 (2019-03-27)
+
+This plugin is only available if 'compatible' is not set.
+
+==============================================================================
+CONTENTS                                                    *vimlook-contents*
+
+    1. Usage ................ |vimlook-usage|
+    2. Bugs ................. |vimlook-bugs|
+    3. Changelog ............ |vimlook-changelog|
+
+==============================================================================
+USAGE                                                          *vimlook-usage*
+
+                                                                  *:QuickLook*
+:QuickLook [file]
+                      Open [file] in QuickLook.
+                      If no file is specified it'll open the current one.
+
+==============================================================================
+BUGS                                                            *vimlook-bugs*
+
+Report any issues to https://github.com/iovis9/vimlook/issues
+
+==============================================================================
+CHANGELOG                                                  *vimlook-changelog*
+
+Version 1.0: 2019-03-27
+  - Initial release
+
+vim:tw=78:ts=8:ft=help:norl:
