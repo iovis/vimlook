@@ -1,6 +1,6 @@
 *vimlook.txt*  Use macOS's QuickLook from Vim
 
-Author:  David Marchante <https://github.com/iovis9>
+Author:  David Marchante <https://github.com/iovis>
 License: Same terms as Vim itself (see |license|)
 Version: 1.0 (2019-03-27)
 
@@ -24,7 +24,7 @@ USAGE                                                          *vimlook-usage*
 ==============================================================================
 BUGS                                                            *vimlook-bugs*
 
-Report any issues to https://github.com/iovis9/vimlook/issues
+Report any issues to https://github.com/iovis/vimlook/issues
 
 ==============================================================================
 CHANGELOG                                                  *vimlook-changelog*
